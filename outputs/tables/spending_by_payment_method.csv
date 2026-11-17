@@ -1,0 +1,5 @@
+payment_method,total_amount,average_amount,transaction_count,share_pct
+Cash,255621.68,1486.17,172,44.14
+bKash,177299.65,1465.29,121,30.62
+Card,92734.87,1053.81,88,16.01
+Nagad,53395.51,1369.12,39,9.22
